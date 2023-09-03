@@ -1,0 +1,22 @@
+
+table, th, td {
+    border: 1px solid black;
+  }
+  .formm {
+      border: 2px solid rgb(92, 92, 92);
+      width: fit-content;
+      border-radius: 3%;
+  }
+  .frz{
+      margin: 3%;
+  }
+  .conn{
+    width: 15%;
+    border: 2px solid rgb(92, 92, 92);
+    border-radius: 3%;
+  }
+  .conn1{
+    width: 30%;
+    border: 2px solid rgb(92, 92, 92);
+
+  }
